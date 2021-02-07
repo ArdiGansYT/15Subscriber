@@ -15,8 +15,8 @@ Follow The Steps Below!
 > pkg update -y
 > pkg upgrade -y
 > pkg install git -y
-> git clone https://github.com/ArdiGansYT/Bot2000
-> cd Bot2000 
+> git clone https://github.com/ArdiGansYT/15Subscriber
+> cd 15Subscriber
 > npm cache clear
 > bash install.sh
 > npm audit fix
